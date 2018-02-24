@@ -1,7 +1,7 @@
 
 #include <avr/io.h>
 #define F_CPU 8000000	// Clock Speed
-#define C4 1911
+#define C4 1911		// These are actual frequencies for each note
 #define D4 1703
 #define E4 1517
 #define F4 1432
